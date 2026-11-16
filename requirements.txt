@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+langchain-google-genai
+python-dotenv
+tavily-python
+requests
+beautifulsoup4
+rich
